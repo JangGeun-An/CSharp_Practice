@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\클래스_생성자\bin\Debug\net6.0\클래스_생성자.exe
+C:\Users\Zeek\source\repos\클래스_생성자\bin\Debug\net6.0\클래스_생성자.deps.json
+C:\Users\Zeek\source\repos\클래스_생성자\bin\Debug\net6.0\클래스_생성자.runtimeconfig.json
+C:\Users\Zeek\source\repos\클래스_생성자\bin\Debug\net6.0\클래스_생성자.dll
+C:\Users\Zeek\source\repos\클래스_생성자\bin\Debug\net6.0\클래스_생성자.pdb
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\클래스_생성자.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\클래스_생성자.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\클래스_생성자.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\클래스_생성자.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\클래스_생성자.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\클래스_생성자.dll
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\refint\클래스_생성자.dll
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\클래스_생성자.pdb
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\클래스_생성자.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\클래스_생성자\obj\Debug\net6.0\ref\클래스_생성자.dll

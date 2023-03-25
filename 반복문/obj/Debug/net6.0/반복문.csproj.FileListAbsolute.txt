@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\반복문\bin\Debug\net6.0\반복문.exe
+C:\Users\Zeek\source\repos\반복문\bin\Debug\net6.0\반복문.deps.json
+C:\Users\Zeek\source\repos\반복문\bin\Debug\net6.0\반복문.runtimeconfig.json
+C:\Users\Zeek\source\repos\반복문\bin\Debug\net6.0\반복문.dll
+C:\Users\Zeek\source\repos\반복문\bin\Debug\net6.0\반복문.pdb
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\반복문.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\반복문.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\반복문.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\반복문.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\반복문.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\반복문.dll
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\refint\반복문.dll
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\반복문.pdb
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\반복문.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\반복문\obj\Debug\net6.0\ref\반복문.dll

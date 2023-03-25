@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\참조형식, 값형식\bin\Debug\net6.0\참조형식, 값형식.exe
+C:\Users\Zeek\source\repos\참조형식, 값형식\bin\Debug\net6.0\참조형식, 값형식.deps.json
+C:\Users\Zeek\source\repos\참조형식, 값형식\bin\Debug\net6.0\참조형식, 값형식.runtimeconfig.json
+C:\Users\Zeek\source\repos\참조형식, 값형식\bin\Debug\net6.0\참조형식, 값형식.dll
+C:\Users\Zeek\source\repos\참조형식, 값형식\bin\Debug\net6.0\참조형식, 값형식.pdb
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\참조형식, 값형식.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\참조형식, 값형식.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\참조형식, 값형식.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\참조형식, 값형식.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\참조형식, 값형식.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\참조형식, 값형식.dll
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\refint\참조형식, 값형식.dll
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\참조형식, 값형식.pdb
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\참조형식, 값형식.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\참조형식, 값형식\obj\Debug\net6.0\ref\참조형식, 값형식.dll

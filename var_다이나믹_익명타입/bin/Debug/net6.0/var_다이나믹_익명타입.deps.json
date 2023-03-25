@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "var_다이나믹_익명타입/1.0.0": {
+        "runtime": {
+          "var_다이나믹_익명타입.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "var_다이나믹_익명타입/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

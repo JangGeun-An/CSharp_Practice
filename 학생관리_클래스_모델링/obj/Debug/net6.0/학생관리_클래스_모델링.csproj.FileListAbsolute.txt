@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\bin\Debug\net6.0\학생관리_클래스_모델링.exe
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\bin\Debug\net6.0\학생관리_클래스_모델링.deps.json
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\bin\Debug\net6.0\학생관리_클래스_모델링.runtimeconfig.json
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\bin\Debug\net6.0\학생관리_클래스_모델링.dll
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\bin\Debug\net6.0\학생관리_클래스_모델링.pdb
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\학생관리_클래스_모델링.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\학생관리_클래스_모델링.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\학생관리_클래스_모델링.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\학생관리_클래스_모델링.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\학생관리_클래스_모델링.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\학생관리_클래스_모델링.dll
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\refint\학생관리_클래스_모델링.dll
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\학생관리_클래스_모델링.pdb
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\학생관리_클래스_모델링.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\학생관리_클래스_모델링\obj\Debug\net6.0\ref\학생관리_클래스_모델링.dll

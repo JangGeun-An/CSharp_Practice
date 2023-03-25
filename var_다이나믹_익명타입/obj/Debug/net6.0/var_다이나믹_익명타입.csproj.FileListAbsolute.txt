@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\bin\Debug\net6.0\var_다이나믹_익명타입.exe
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\bin\Debug\net6.0\var_다이나믹_익명타입.deps.json
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\bin\Debug\net6.0\var_다이나믹_익명타입.runtimeconfig.json
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\bin\Debug\net6.0\var_다이나믹_익명타입.dll
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\bin\Debug\net6.0\var_다이나믹_익명타입.pdb
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\var_다이나믹_익명타입.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\var_다이나믹_익명타입.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\var_다이나믹_익명타입.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\var_다이나믹_익명타입.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\var_다이나믹_익명타입.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\var_다이나믹_익명타입.dll
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\refint\var_다이나믹_익명타입.dll
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\var_다이나믹_익명타입.pdb
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\var_다이나믹_익명타입.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\var_다이나믹_익명타입\obj\Debug\net6.0\ref\var_다이나믹_익명타입.dll

@@ -1,0 +1,6 @@
+C:\Users\Zeek\source\repos\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Zeek\source\repos\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Zeek\source\repos\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Zeek\source\repos\MyLibrary\obj\Debug\MyLibrary.pdb

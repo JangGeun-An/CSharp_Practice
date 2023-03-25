@@ -1,0 +1,5 @@
+C:\Users\Zeek\source\repos\인터페이스(IEnumerable)\obj\Debug\net6.0\인터페이스(IEnumerable).csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\인터페이스(IEnumerable)\obj\Debug\net6.0\인터페이스(IEnumerable).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\인터페이스(IEnumerable)\obj\Debug\net6.0\인터페이스(IEnumerable).AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\인터페이스(IEnumerable)\obj\Debug\net6.0\인터페이스(IEnumerable).AssemblyInfo.cs
+C:\Users\Zeek\source\repos\인터페이스(IEnumerable)\obj\Debug\net6.0\인터페이스(IEnumerable).csproj.CoreCompileInputs.cache

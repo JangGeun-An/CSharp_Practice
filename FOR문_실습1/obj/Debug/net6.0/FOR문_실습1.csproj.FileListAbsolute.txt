@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\FOR문_실습1\bin\Debug\net6.0\FOR문_실습1.exe
+C:\Users\Zeek\source\repos\FOR문_실습1\bin\Debug\net6.0\FOR문_실습1.deps.json
+C:\Users\Zeek\source\repos\FOR문_실습1\bin\Debug\net6.0\FOR문_실습1.runtimeconfig.json
+C:\Users\Zeek\source\repos\FOR문_실습1\bin\Debug\net6.0\FOR문_실습1.dll
+C:\Users\Zeek\source\repos\FOR문_실습1\bin\Debug\net6.0\FOR문_실습1.pdb
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\FOR문_실습1.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\FOR문_실습1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\FOR문_실습1.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\FOR문_실습1.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\FOR문_실습1.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\FOR문_실습1.dll
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\refint\FOR문_실습1.dll
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\FOR문_실습1.pdb
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\FOR문_실습1.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\FOR문_실습1\obj\Debug\net6.0\ref\FOR문_실습1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IF문_실습(초보)/1.0.0": {
+        "runtime": {
+          "IF문_실습(초보).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IF문_실습(초보)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

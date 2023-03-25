@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\리스트\bin\Debug\net6.0\리스트.exe
+C:\Users\Zeek\source\repos\리스트\bin\Debug\net6.0\리스트.deps.json
+C:\Users\Zeek\source\repos\리스트\bin\Debug\net6.0\리스트.runtimeconfig.json
+C:\Users\Zeek\source\repos\리스트\bin\Debug\net6.0\리스트.dll
+C:\Users\Zeek\source\repos\리스트\bin\Debug\net6.0\리스트.pdb
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\리스트.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\리스트.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\리스트.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\리스트.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\리스트.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\리스트.dll
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\refint\리스트.dll
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\리스트.pdb
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\리스트.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\리스트\obj\Debug\net6.0\ref\리스트.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF문_실습(ELSEIF)", "IF문_실습(ELSEIF).csproj", "{0ABD194F-3202-43E3-8294-2CB70F233D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "..\MyLibrary\MyLibrary.csproj", "{3D845099-BCF7-4184-9A85-D1CD3C6BE502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABD194F-3202-43E3-8294-2CB70F233D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABD194F-3202-43E3-8294-2CB70F233D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABD194F-3202-43E3-8294-2CB70F233D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABD194F-3202-43E3-8294-2CB70F233D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D845099-BCF7-4184-9A85-D1CD3C6BE502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D845099-BCF7-4184-9A85-D1CD3C6BE502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D845099-BCF7-4184-9A85-D1CD3C6BE502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D845099-BCF7-4184-9A85-D1CD3C6BE502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E109C78-5A69-4D03-9F2B-263E199AA3E1}
+	EndGlobalSection
+EndGlobal

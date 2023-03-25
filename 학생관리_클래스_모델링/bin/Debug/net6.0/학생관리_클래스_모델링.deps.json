@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "학생관리_클래스_모델링/1.0.0": {
+        "runtime": {
+          "학생관리_클래스_모델링.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "학생관리_클래스_모델링/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

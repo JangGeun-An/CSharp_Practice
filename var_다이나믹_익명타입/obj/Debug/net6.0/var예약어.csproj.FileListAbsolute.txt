@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\var예약어\bin\Debug\net6.0\var예약어.exe
+C:\Users\Zeek\source\repos\var예약어\bin\Debug\net6.0\var예약어.deps.json
+C:\Users\Zeek\source\repos\var예약어\bin\Debug\net6.0\var예약어.runtimeconfig.json
+C:\Users\Zeek\source\repos\var예약어\bin\Debug\net6.0\var예약어.dll
+C:\Users\Zeek\source\repos\var예약어\bin\Debug\net6.0\var예약어.pdb
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\var예약어.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\var예약어.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\var예약어.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\var예약어.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\var예약어.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\var예약어.dll
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\refint\var예약어.dll
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\var예약어.pdb
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\var예약어.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\var예약어\obj\Debug\net6.0\ref\var예약어.dll

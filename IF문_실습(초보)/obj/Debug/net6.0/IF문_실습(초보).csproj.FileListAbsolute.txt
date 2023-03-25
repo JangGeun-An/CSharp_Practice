@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\IF문_실습(초보)\bin\Debug\net6.0\IF문_실습(초보).exe
+C:\Users\Zeek\source\repos\IF문_실습(초보)\bin\Debug\net6.0\IF문_실습(초보).deps.json
+C:\Users\Zeek\source\repos\IF문_실습(초보)\bin\Debug\net6.0\IF문_실습(초보).runtimeconfig.json
+C:\Users\Zeek\source\repos\IF문_실습(초보)\bin\Debug\net6.0\IF문_실습(초보).dll
+C:\Users\Zeek\source\repos\IF문_실습(초보)\bin\Debug\net6.0\IF문_실습(초보).pdb
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\IF문_실습(초보).csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\IF문_실습(초보).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\IF문_실습(초보).AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\IF문_실습(초보).AssemblyInfo.cs
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\IF문_실습(초보).csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\IF문_실습(초보).dll
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\refint\IF문_실습(초보).dll
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\IF문_실습(초보).pdb
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\IF문_실습(초보).genruntimeconfig.cache
+C:\Users\Zeek\source\repos\IF문_실습(초보)\obj\Debug\net6.0\ref\IF문_실습(초보).dll

@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\System_IO\bin\Debug\net6.0\System_IO.exe
+C:\Users\Zeek\source\repos\System_IO\bin\Debug\net6.0\System_IO.deps.json
+C:\Users\Zeek\source\repos\System_IO\bin\Debug\net6.0\System_IO.runtimeconfig.json
+C:\Users\Zeek\source\repos\System_IO\bin\Debug\net6.0\System_IO.dll
+C:\Users\Zeek\source\repos\System_IO\bin\Debug\net6.0\System_IO.pdb
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\System_IO.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\System_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\System_IO.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\System_IO.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\System_IO.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\System_IO.dll
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\refint\System_IO.dll
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\System_IO.pdb
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\System_IO.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\System_IO\obj\Debug\net6.0\ref\System_IO.dll

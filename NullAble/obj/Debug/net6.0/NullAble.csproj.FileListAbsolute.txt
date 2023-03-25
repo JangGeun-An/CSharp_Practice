@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\NullAble\bin\Debug\net6.0\NullAble.exe
+C:\Users\Zeek\source\repos\NullAble\bin\Debug\net6.0\NullAble.deps.json
+C:\Users\Zeek\source\repos\NullAble\bin\Debug\net6.0\NullAble.runtimeconfig.json
+C:\Users\Zeek\source\repos\NullAble\bin\Debug\net6.0\NullAble.dll
+C:\Users\Zeek\source\repos\NullAble\bin\Debug\net6.0\NullAble.pdb
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\NullAble.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\NullAble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\NullAble.AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\NullAble.AssemblyInfo.cs
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\NullAble.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\NullAble.dll
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\refint\NullAble.dll
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\NullAble.pdb
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\NullAble.genruntimeconfig.cache
+C:\Users\Zeek\source\repos\NullAble\obj\Debug\net6.0\ref\NullAble.dll

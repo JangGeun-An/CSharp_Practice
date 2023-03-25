@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\bin\Debug\net6.0\조건문(SWITCH문).exe
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\bin\Debug\net6.0\조건문(SWITCH문).deps.json
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\bin\Debug\net6.0\조건문(SWITCH문).runtimeconfig.json
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\bin\Debug\net6.0\조건문(SWITCH문).dll
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\bin\Debug\net6.0\조건문(SWITCH문).pdb
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\조건문(SWITCH문).csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\조건문(SWITCH문).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\조건문(SWITCH문).AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\조건문(SWITCH문).AssemblyInfo.cs
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\조건문(SWITCH문).csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\조건문(SWITCH문).dll
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\refint\조건문(SWITCH문).dll
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\조건문(SWITCH문).pdb
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\조건문(SWITCH문).genruntimeconfig.cache
+C:\Users\Zeek\source\repos\조건문(SWITCH문)\obj\Debug\net6.0\ref\조건문(SWITCH문).dll

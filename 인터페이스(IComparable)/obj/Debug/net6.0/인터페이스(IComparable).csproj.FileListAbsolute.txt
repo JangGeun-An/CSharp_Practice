@@ -1,0 +1,15 @@
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\bin\Debug\net6.0\인터페이스(IComparable).exe
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\bin\Debug\net6.0\인터페이스(IComparable).deps.json
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\bin\Debug\net6.0\인터페이스(IComparable).runtimeconfig.json
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\bin\Debug\net6.0\인터페이스(IComparable).dll
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\bin\Debug\net6.0\인터페이스(IComparable).pdb
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\인터페이스(IComparable).csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\인터페이스(IComparable).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\인터페이스(IComparable).AssemblyInfoInputs.cache
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\인터페이스(IComparable).AssemblyInfo.cs
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\인터페이스(IComparable).csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\인터페이스(IComparable).dll
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\refint\인터페이스(IComparable).dll
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\인터페이스(IComparable).pdb
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\인터페이스(IComparable).genruntimeconfig.cache
+C:\Users\Zeek\source\repos\인터페이스(IComparable)\obj\Debug\net6.0\ref\인터페이스(IComparable).dll
