@@ -27,7 +27,7 @@ namespace 구조체
     }
 
     /// <summary>
-    /// 참조 형식으로 학생 클래스입니다.
+    /// 참조 형식으로 학생 클래스입니다. surmary
     /// </summary>
     struct Student
     {
